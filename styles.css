@@ -1,10 +1,25 @@
 body {
 	background-color: black;
+	color: green;
 }
 h1 {
-    color: red;
+    color: #009BAD;
+    text-align: center;
+    font-family: Arial;
 }
+
+h3 {
+    color: #309BAD;
+    text-align: center;
+    font-family: Arial;
+}
+
 button {
-	color: blue;
-	background-color: black;
+	color: green;
+	background-color: #222222;
+    height: 50px;
+    width: 80px;
+    border : 1px dashed #333333; 
+    border-radius : 4px 4px 4px 4px;
+    box-shadow: 3px 3px 3px #222222; 
 }

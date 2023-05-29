@@ -3,7 +3,7 @@ function coucou(){
 	let elt = document.getElementById("body")
 	newbutton.setAttribute("class","button")
 	newbutton.setAttribute("onclick","coucou()")
-	newbutton.innerHTML = "coucou"
+	newbutton.innerHTML = "Coucou"
 	elt.appendChild(newbutton)
 
 }
